@@ -1,10 +1,16 @@
 # The code containg two folders client and server.
 > Client code will be running on [localhost:3000](http://localhost:3000/)
+> Install all the dependency on client side
+
+>`npm i react-scroll-to-bottom socket.io-client`
 
 > Server code will be running on [localhost:3001](http://localhost:3001/)
+> Install all the dependency on client side
+
+>`npm i express cors socket.io`
 
 ### Two or more persons can join same room for chat.
-(![Join room](https://github.com/ashish11011/chat-app/assets/75682893/11a628e3-b912-444e-84ae-90c72c9f1e89))
+![Join room](https://github.com/ashish11011/chat-app/assets/75682893/11a628e3-b912-444e-84ae-90c72c9f1e89)
 
 
 ### Will also get the time and name of the person send messeage.
